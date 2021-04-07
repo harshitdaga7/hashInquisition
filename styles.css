@@ -1,0 +1,25 @@
+#background {
+  border: 1px solid black;
+  margin-left: 300px;
+  margin-top: 60px;
+  background-color: rgb(223, 217, 217);
+  position: absolute;
+  z-index: 1;
+}
+#foreground {
+  border: 1px solid blue;
+  position: absolute;
+  margin-left: 315px;
+  margin-top: 75px;
+  z-index: 2;
+}
+#ui {
+  height: 511px;
+  width: 670px;
+  max-width: 670px;
+  max-height: 511px;
+  margin-left: 300px;
+  margin-top: 60px;
+  position: absolute;
+  z-index: 3;
+}
