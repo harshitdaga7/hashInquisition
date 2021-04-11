@@ -1,0 +1,125 @@
+#background {
+  border: 1px solid black;
+  margin-left: 300px;
+  margin-top: 60px;
+  background-color: rgb(223, 217, 217);
+  position: absolute;
+  z-index: 1;
+}
+#foreground {
+  border: 1px solid blue;
+  position: absolute;
+  margin-left: 315px;
+  margin-top: 75px;
+  z-index: 2;
+}
+#ui {
+  height: 511px;
+  width: 670px;
+  max-width: 670px;
+  max-height: 511px;
+  margin-left: 300px;
+  margin-top: 60px;
+  position: absolute;
+  z-index: 3;
+}
+btn1:hover{
+    background-color: #ff7b00;
+}
+btn1:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn2:hover{
+    background-color: #ff7b00;
+}
+btn2:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn3:hover{
+    background-color: #ff7b00;
+}
+btn3:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn4:hover{
+    background-color: #ff7b00;
+}
+btn4:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn5:hover{
+    background-color: #ff7b00;
+}
+btn5:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn6:hover{
+    background-color: #ff7b00;
+}
+btn6:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+
+btn7:hover{
+    background-color: #ff7b00;
+}
+btn7:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn8:hover{
+    background-color: #ff7b00;
+}
+btn8:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+
+btn9:hover{
+    background-color:#ff7b00;
+}
+btn9:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn10:hover{
+    background-color: #ff7b00;
+}
+btn10:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+btn0:hover{
+    background-color: #ff7b00;
+}
+btn0:active{
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
